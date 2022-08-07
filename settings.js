@@ -52,8 +52,8 @@ global.ownertag = '+94781646010' //your tag number
 global.botname = '❤💛Queen_Samadi💙💚' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
 global.author = "Queen Samadi" // sticker author
-global.dragonemoji = '🤩' // Menu emoji
-global.footer = '[𝒬𝓊𝑒𝑒𝓃 𝒮𝒶𝓂𝒶𝒹𝒾]' //
+global.dragonemoji = '💚' // Menu emoji
+global.footer = '꧁༒☬𝓠𝓾𝓮𝓮𝓷 𝓢𝓪𝓶𝓪𝓭𝓲☬༒꧂' //
 
 global.button = '☰ GITHUB ☰' //Costomize A Button Name In Alive Message
 global.btnurl = 'https://github.com/Lusi2002' //Change Your Button's URL
